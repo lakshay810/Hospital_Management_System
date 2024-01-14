@@ -1,4 +1,6 @@
 #HOSPITAL MANAGEMENT SYSTEM
+
+# Note that to Run this file, you must download the Functions.py file in your device
 from functions import *
 while True:
     print("\t\t\t\t-----------------HOSPITAL MANAGEMENT SYSTEM-------------------\n\n")
